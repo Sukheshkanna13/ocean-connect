@@ -1,4 +1,3 @@
-1: downlioad the zip file from https://github.com/MaheshSindhiya/ocean.com.git
 
 2: extract dwonlded file (you will get foldet name 'ocean.com-master')
 
